@@ -121,7 +121,7 @@ rag-knowledge-base/
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/masudibnmusa/RAG-powered-knowledge-base.git
 cd rag-knowledge-base
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
